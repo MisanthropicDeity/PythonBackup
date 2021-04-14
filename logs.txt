@@ -1,0 +1,1 @@
+Starting Backup for path /home/deity/Documents/C++ at <built-in method now of type object at 0x7f2694bc8ca0>Session created Successfullybucket {bucket} opened
