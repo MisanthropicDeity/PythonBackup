@@ -57,7 +57,7 @@ def upload_files(path):
                 logs.write(str(log))
                 print(log)
 
-schedule.every(interval).second.do(upload_files(path))
+schedule.every(interval).hour.do(upload_files(path))
 while True:
     schedule.run_pending()
 
